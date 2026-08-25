@@ -1,5 +1,5 @@
 <template>
 	<div>
-		<h1>我是根 组件</h1>
+		<h1>我是根组件用来测试的</h1>
 	</div>
 </template>
