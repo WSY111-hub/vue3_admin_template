@@ -1,5 +1,5 @@
 <template>
-  <div>
-    <h1>我是根组件</h1>
-  </div>
+	<div>
+		<h1>我是根 组件</h1>
+	</div>
 </template>
