@@ -1,0 +1,1 @@
+var e=()=>{let e=``,t=new Date().getHours();return e=t<=9?`早上`:t<=12?`上午`:t<=18?`下午`:`晚上`,e};export{e as t};

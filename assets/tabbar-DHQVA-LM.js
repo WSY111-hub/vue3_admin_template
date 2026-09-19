@@ -1,0 +1,1 @@
+import{a as e}from"./request-D33mCk8m.js";var t=e(`SettingStore`,{state:()=>({fold:!1,refresh:!1})});export{t};
