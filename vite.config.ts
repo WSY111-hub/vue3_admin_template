@@ -11,7 +11,7 @@ export default defineConfig(({ command, mode }) => {
 	//获取各种环境下的对应的变量
 	let env = loadEnv(mode, process.cwd());
 	return {
-		base: '/vue3_admin_template/',
+		// base: '/vue3_admin_template/',//本地注释！打包上线解开
 		plugins: [
 			vue(),
 			// 配置svg图标插件
